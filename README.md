@@ -10,34 +10,34 @@ Using Power BI, this project transforms raw customer data into meaningful insigh
 
 ## Key Analysis Performed
 ## 1. Customer Overview
-Total Customers
-Active Customers
-Churned Customers
-Overall Churn Rate
+- Total Customers
+- Active Customers
+- Churned Customers
+- Overall Churn Rate
 
 ## 2. Churn Distribution Analysis
-Churn by Gender
-Churn by Contract Type
-Churn by Internet Service
-Overall Customer Churn Distribution
+- Churn by Gender
+- Churn by Contract Type
+- Churn by Internet Service
+- Overall Customer Churn Distribution
 
 ## 3️. Trend & Pattern Analysis
-Customer Retention Trends
-Segment-wise Churn Behavior
-High-Risk Customer Categories
+- Customer Retention Trends
+- Segment-wise Churn Behavior
+- High-Risk Customer Categories
 
 ## Power BI Visualizations Created
-KPI Cards (Total Customers, Active Customers, Churned Customers, Churn Rate) 
-Area Chart (Customer Trends Over Time) 
-Line Chart (Retention Trends) 
-Ribbon Chart (Segment Comparison) 
-Bar / Pie Charts (Churn Distribution Analysis)
+- KPI Cards (Total Customers, Active Customers, Churned Customers, Churn Rate) 
+- Area Chart (Customer Trends Over Time) 
+- Line Chart (Retention Trends) 
+- Ribbon Chart (Segment Comparison) 
+- Bar / Pie Charts (Churn Distribution Analysis)
 
 ## Key Insights
-Identified customer segments with highest churn risk
-Observed impact of contract type on customer retention
-Found service-related factors influencing churn behaviour
-Provided data-driven recommendations for improving retention
+- Identified customer segments with highest churn risk
+- Observed impact of contract type on customer retention
+- Found service-related factors influencing churn behaviour
+- Provided data-driven recommendations for improving retention
 
 ## 📌 Author
 Vanishree M L
