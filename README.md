@@ -21,7 +21,7 @@ Using Power BI, this project transforms raw customer data into meaningful insigh
 - Churn by Internet Service
 - Overall Customer Churn Distribution
 
-## 3️. Trend & Pattern Analysis
+## 3. Trend & Pattern Analysis
 - Customer Retention Trends
 - Segment-wise Churn Behavior
 - High-Risk Customer Categories
